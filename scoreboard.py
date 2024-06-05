@@ -1,4 +1,5 @@
-#Python Object Oriented Programmings
+#Python Object Oriented Programming
+#Authentication done
 class Participant:
     def __init__(self, name, chickenwings, hamburgers, hotdogs):
         self.name = name
