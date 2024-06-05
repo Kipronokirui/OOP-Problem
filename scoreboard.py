@@ -1,3 +1,4 @@
+#Python Object Oriented Programming
 class Participant:
     def __init__(self, name, chickenwings, hamburgers, hotdogs):
         self.name = name
